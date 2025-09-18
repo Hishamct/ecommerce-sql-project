@@ -1,0 +1,51 @@
+customer_id,name,email,phone,city,state,signup_date
+1,Darika Sheth,darika.sheth@gmail.com,7668293918,Nagaon,Tamil Nadu,2024-12-31
+2,Adya Chakraborty,adya.chakraborty@gmail.com,8346176315,Anantapur,Rajasthan,2023-12-10
+3,Garima Mammen,garima.mammen@gmail.com,8794590245,Haldia,Andhra Pradesh,2024-08-25
+4,Qasim Yohannan,qasim.yohannan@gmail.com,7091637288,Bhusawal,Chhattisgarh,2025-08-26
+5,Kritika Shere,kritika.shere@gmail.com,7944058568,Eluru,Andhra Pradesh,2024-05-26
+6,Wishi Wable,wishi.wable@gmail.com,9366997242,Kavali,Jharkhand,2025-03-02
+7,Nathaniel Kar,nathaniel.kar@gmail.com,7902912238,Munger,Telangana,2025-01-24
+8,Zehaan Nazareth,zehaan.nazareth@gmail.com,9420367680,Chittoor,Meghalaya,2025-03-30
+9,Tristan Char,tristan.char@gmail.com,6135291944,Bijapur,Nagaland,2025-06-30
+10,Warjas Balan,warjas.balan@gmail.com,9238566213,Kollam,Maharashtra,2025-08-26
+11,Libni Bakshi,libni.bakshi@gmail.com,7171566645,Raichur,Uttarakhand,2024-01-20
+12,Pushti Vora,pushti.vora@gmail.com,9027325657,Ballia,Goa,2023-10-14
+13,Banjeet Pandit,banjeet.pandit@gmail.com,9646490703,Gandhidham,Tripura,2025-06-21
+14,Riya Nagar,riya.nagar@gmail.com,8622924481,Gaya,Arunachal Pradesh,2025-02-21
+15,Yashasvi Kumer,yashasvi.kumer@gmail.com,9625667344,Nellore,Jharkhand,2023-09-20
+16,Yamini Apte,yamini.apte@gmail.com,6830510999,Karimnagar,Madhya Pradesh,2024-12-04
+17,Yadavi Doctor,yadavi.doctor@gmail.com,6148133275,Khandwa,Goa,2025-04-04
+18,Avi Sagar,avi.sagar@gmail.com,9540342243,Delhi,Madhya Pradesh,2025-08-30
+19,Radha Batra,radha.batra@gmail.com,8344604877,Rajkot,Karnataka,2025-08-07
+20,Yatin Bala,yatin.bala@gmail.com,8372051055,Patiala,Kerala,2025-07-16
+21,Yatan Gala,yatan.gala@gmail.com,6235700013,Gaya,Sikkim,2025-07-10
+22,Rachana Toor,rachana.toor@gmail.com,9215734620,Varanasi,Maharashtra,2025-07-01
+23,Luke Bhalla,luke.bhalla@gmail.com,8896076012,Ulhasnagar,Odisha,2024-09-28
+24,Tanvi Lad,tanvi.lad@gmail.com,8493808382,South Dumdum,Haryana,2025-09-14
+25,Anthony Datta,anthony.datta@gmail.com,7573868180,Warangal,Meghalaya,2023-12-30
+26,Anusha Palla,anusha.palla@gmail.com,8919415691,Korba,Manipur,2024-03-13
+27,Rachana Sur,rachana.sur@gmail.com,7050326566,Khammam,Punjab,2025-01-26
+28,Bhavya Bassi,bhavya.bassi@gmail.com,8645289381,Jaunpur,West Bengal,2025-01-14
+29,Nidra Rout,nidra.rout@gmail.com,6915998514,North Dumdum,Sikkim,2024-07-05
+30,Saksham Sachar,saksham.sachar@gmail.com,9800682961,Raiganj,Mizoram,2023-11-13
+31,Charan Varty,charan.varty@gmail.com,6410405905,Muzaffarnagar,Telangana,2024-03-03
+32,Daniel Behl,daniel.behl@gmail.com,9149651555,Tadipatri,Punjab,2025-01-03
+33,Sanya Shan,sanya.shan@gmail.com,9086985948,Rourkela,Mizoram,2025-07-28
+34,Wyatt Chaudhry,wyatt.chaudhry@gmail.com,7690940729,Dehradun,Rajasthan,2024-03-28
+35,Finn Devan,finn.devan@gmail.com,8338519928,Sasaram,Maharashtra,2024-12-31
+36,Max Chauhan,max.chauhan@gmail.com,6742532609,Anantapur,Nagaland,2024-01-27
+37,Chavvi Srivastava,chavvi.srivastava@gmail.com,9762093471,Nizamabad,Tamil Nadu,2023-12-25
+38,Udarsh Nagy,udarsh.nagy@gmail.com,6464145671,Hospet,Andhra Pradesh,2025-03-22
+39,Ikbal Khanna,ikbal.khanna@gmail.com,7309997449,Rajkot,Tripura,2024-02-15
+40,Arin Date,arin.date@gmail.com,7554138441,Panihati,Manipur,2025-05-01
+41,Praneel Ramachandran,praneel.ramachandran@gmail.com,6382017996,Dehradun,Arunachal Pradesh,2024-02-15
+42,Rehaan Nazareth,rehaan.nazareth@gmail.com,9340176098,Gandhinagar,Punjab,2025-01-22
+43,Urmi Venkataraman,urmi.venkataraman@gmail.com,7115421687,Rourkela,Meghalaya,2023-10-24
+44,Amruta Zacharia,amruta.zacharia@gmail.com,8027538453,Mangalore,Himachal Pradesh,2024-05-05
+45,Kalpit Natarajan,kalpit.natarajan@gmail.com,6184959342,Bhilwara,Punjab,2024-12-10
+46,Faras Sami,faras.sami@gmail.com,7934821533,Jhansi,Gujarat,2025-02-21
+47,Rajata Bains,rajata.bains@gmail.com,9982436653,Jammu,Gujarat,2025-07-07
+48,Harish Kala,harish.kala@gmail.com,9408649324,Munger,Sikkim,2025-01-20
+49,Urmi Kapur,urmi.kapur@gmail.com,8740694077,Hajipur,Uttarakhand,2023-11-01
+50,Janya Dhar,janya.dhar@gmail.com,9142521260,Bhilwara,Jharkhand,2025-05-29

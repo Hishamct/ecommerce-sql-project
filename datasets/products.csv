@@ -1,0 +1,31 @@
+product_id,name,category,price,stock
+1,Cushion Cover,Home,1933,258
+2,Wall Clock,Home,3520,107
+3,Jacket,Clothing,1438,277
+4,Denim Jeans,Clothing,4307,96
+5,Hoodie,Clothing,3639,82
+6,Machine Learning Guide,Books,1765,147
+7,Python Programming,Books,2639,128
+8,Jacket,Clothing,4456,53
+9,Denim Jeans,Clothing,4223,244
+10,Wall Clock,Home,4727,129
+11,Denim Jeans,Clothing,2750,295
+12,Bluetooth Speaker,Electronics,2940,321
+13,Jacket,Clothing,1833,168
+14,Novel,Books,106,298
+15,Backpack,Accessories,4126,496
+16,Hoodie,Clothing,3921,102
+17,Data Science Handbook,Books,3969,390
+18,Headphones,Electronics,4216,380
+19,Laptop Sleeve,Electronics,3093,439
+20,Wall Clock,Home,1041,375
+21,Jacket,Clothing,3575,263
+22,Sneakers,Clothing,4430,318
+23,Cushion Cover,Home,3636,491
+24,Headphones,Electronics,177,17
+25,Python Programming,Books,2824,182
+26,Machine Learning Guide,Books,2926,280
+27,Wristband,Accessories,4088,10
+28,Headphones,Electronics,157,48
+29,Hoodie,Clothing,569,467
+30,Bluetooth Speaker,Electronics,2617,310
