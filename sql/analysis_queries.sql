@@ -134,3 +134,6 @@ CREATE TRIGGER trg_customer_signup
 AFTER INSERT ON customers
 FOR EACH ROW
 EXECUTE FUNCTION log_new_customer();
+
+
+
